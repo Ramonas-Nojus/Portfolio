@@ -328,27 +328,31 @@
     <section class="projects">
         <h2 class="projects-title">My Projects</h2>
         <div class="projects-grid">
-            <a href="http://keyson.local">
+            <a href="https://goldenrod-cheetah-195571.hostingersite.com">
                 <div class="project" data-number="1">
                     <h3>Personal project - KeysON</h3>
                     <img src="./img/KeysON.png" alt="KeysON project" class="project-image">
                     <p>An interactive custom keyboard builder allowing users to design and visualize their own unique mechanical keyboards with a real-time preview.</p>
                 </div>
             </a>
-            <div class="project" data-number="2">
-                <h3>Personal project - FloreDrop</h3>
-                <img src="./img/FloreDrop.png" alt="KeysON project" class="project-image">
-                <p>A minimalist jewelry store website created as a practice project, showcasing a simple product display and basic e-commerce features</p>
-            </div>
+            <a href="https://orange-kudu-155499.hostingersite.com">
+                <div class="project" data-number="2">
+                    <h3>Personal project - FloreDrop</h3>
+                    <img src="./img/FloreDrop.png" alt="KeysON project" class="project-image">
+                    <p>A minimalist jewelry store website created as a practice project, showcasing a simple product display and basic e-commerce features</p>
+                </div>
+            </a>
             <div class="project" data-number="3">
                 <h3>Personal project - GustoRano</h3>
                 <img src="./img/GustoRano.png" alt="KeysON project" class="project-image">
                 <p>A simple yet functional website that fetches and displays recipes from an external API, providing users with easy access to various meal ideas.</p>
             </div>
-            <div class="project" data-number="4">
-                <h3>Personal project - CMS</h3>
-                <p>A dynamic social platform where users can create profiles, connect with others, share updates, and engage through interactive features like comments and reactions.</p>
-            </div>
+            <a href="https://powderblue-trout-708578.hostingersite.com">
+                <div class="project" data-number="4">
+                    <h3>Personal project - CMS</h3>
+                    <p>A dynamic social platform where users can create profiles, connect with others, share updates, and engage through interactive features like comments and reactions.</p>
+                </div>
+            </a>
             <div class="project" data-number="5">
                 <h3>Personal project - Niterria</h3>
                 <p>A clean and responsive blog platform designed to share engaging articles and reviews, optimized for readability and user interaction.</p>
